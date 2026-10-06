@@ -9,5 +9,19 @@
 'use strict';
 let admin;
 let useName  = 'Джон';
-admin = useName;
-console.log(admin);
+// admin = useName;
+console.log(admin=useName);
+
+// homework-2
+// task 1
+// Напишите условие if для проверки, что переменная age находится в диапазоне между 14 и 90
+//  включительно.
+// «Включительно» означает, что значение переменной age может быть равно 14 или 90.
+
+let age;
+if (age<14) || (age>90) {
+    console.log('true')
+}
+else {
+
+}
