@@ -105,4 +105,4 @@ for (let n = 2; n <= nMax; n++){
     }
     console.log(n);
 }
-
+// commet do get some diffs, wtf git?
